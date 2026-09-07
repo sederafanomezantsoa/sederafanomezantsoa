@@ -4,7 +4,7 @@ I'm a Master's student in **Innovation & Technology** with a background in **Mat
 
 - 🎓 M1 **Innovation & Technology**
 - 📐 **Bachelor's degree in Mathematics**
-- 📊 Background in **Probability & Statistics,Algebra & Algorithms,Numerical Analysis**
+-  📊 Background in **Probability & Statistics, Algebra & Algorithms,** and **Numerical Analysis**
 - 💻 Interested in **Software Engineering**
 - 🐧 Comfortable working in a **Linux environment**
 - 🤖 Progressively moving toward **AI Engineering**
@@ -12,11 +12,7 @@ I'm a Master's student in **Innovation & Technology** with a background in **Mat
 
 ### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+`C` `C++` `Python` `JavaScript` `SQL`
 
 ### 🌐 Web Development
 
@@ -51,7 +47,7 @@ I'm particularly interested in:
 
 - 📈 Statistics
 - 📉 Probability
-- 📊 Data Analysis : PCA, CA, CHA/K-Means
+- 📊 Data Analysis : PCA, CA, HAC/K-Means
 - 🔢 Algorithms
 - 🧮 Optimization
 - 📐 Linear Algebra
@@ -97,7 +93,7 @@ Topics include:
 - Statistics
 - Principal Component Analysis(PCA)
 - Correspondence Analysis(CA)
-- Classification Hierarchical Ascendent(CHA)
+- Hierarchical Ascending Classification (HAC)
 - K-Means
 - Data visualization
 

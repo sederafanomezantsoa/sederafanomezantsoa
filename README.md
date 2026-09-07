@@ -112,7 +112,7 @@ Programming
     ↓
 Software Engineering
     ↓
-Advanced Python  + SQL
+Strengthening Python & MySQL
     ↓
 Data Analysis
     ↓

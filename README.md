@@ -50,26 +50,72 @@ My mathematical background helps me approach programming and data problems from 
 I'm particularly interested in:
 
 - 📈 Statistics
-- 📊 Data Analysis
+- 📉 Probability
+- 📊 Data Analysis : PCA, CA, CHA/K-Means
 - 🔢 Algorithms
 - 🧮 Optimization
 - 📐 Linear Algebra
-- 📉 Probability
-- 🔍 Exploratory Data Analysis
-- 📊 Principal Component Analysis (PCA)
-- 📊 Correspondence Analysis
 
-<!--
-**sederafanomezantsoa/sederafanomezantsoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 🧮 Scientific Calculator — C++ / Qt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A desktop scientific calculator developed with **C++ and Qt**.
+
+**Features include:**
+
+- Basic arithmetic operations
+- `sin`, `cos`, `tan`
+- Square root
+- Power
+- `ANS`
+- Memory operations
+- Error handling
+- Graphical user interface
+
+### 👕 Vesti' Homme — Web Project
+
+A web project related to my clothing business.
+
+The goal is to build a practical application around:
+
+- Product presentation
+- Product management
+- Customer interaction
+- Database
+- Backend API
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, SQL
+
+### 📊 Data Analysis Projects
+
+Projects exploring statistical and mathematical methods for analyzing data.
+
+Topics include:
+
+- Data cleaning
+- Statistics
+- Principal Component Analysis(PCA)
+- Correspondence Analysis(CA)
+- Classification Hierarchical Ascendent(CHA)
+- K-Means
+- Data visualization
+
+**Tools:** R / Python
+
+## 🧠 Currently Learning
+
+I'm currently focusing on strengthening my foundations before moving toward more advanced AI systems.
+
+```text
+Programming
+    ↓
+Software Engineering
+    ↓
+Python + SQL
+    ↓
+Data Analysis
+    ↓
+Machine Learning
+    ↓
+AI Engineering
